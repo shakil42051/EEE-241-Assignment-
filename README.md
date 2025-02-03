@@ -5,3 +5,7 @@
 - **Learning Outcomes**: Key concepts covered (BJT operation, amplifier design, simulation).  
 - **Contribution**: Guidelines for reporting issues or suggesting improvements.  
 - **Author**: Md. Shakil Ahmad Nahid.  
+
+
+
+(Also Include assignment 1)
